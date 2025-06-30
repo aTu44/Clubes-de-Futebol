@@ -58,6 +58,8 @@ git clone https://github.com/aTu44/Clubes-de-Futebol.git
 cd Clubes-de-Futebol
 dotnet build
 dotnet run
+
+```
 Em seguida, utilize o menu no console para gerenciar clubes, jogadores, técnicos e simular partidas.
 
 🤝 Contribuição
@@ -81,21 +83,3 @@ Arthur Henry (GitHub)
 Caso tenha dúvidas ou sugestões, abra uma Issue no repositório ou entre em contato diretamente pelo GitHub.
 
 ⭐ Se este projeto foi útil, deixe uma estrela!
-
-yaml
-Copiar
-Editar
-
----
-
-✅ **Pode copiar todo o texto acima (entre ```markdown e ```) e colar direto no seu `README.md`.**  
-Se quiser, posso também gerar um arquivo pronto (.md) para você baixar. É só pedir! 🚀
-
-
-
-
-
-
-
-
-Perguntar ao ChatGPT
