@@ -1,6 +1,6 @@
 # ⚽ Clubes-de-Futebol
 
-Programa **console** em **C# (.NET 8)** para gerenciar clubes de futebol, permitindo cadastrar clubes, jogadores, técnicos, simular partidas e armazenar os dados em arquivos XML.
+Programa **console** em **C# (.NET 8)** para gerenciar clubes de futebol, permitindo cadastrar clubes, jogadores, técnicos, simular partidas e armazenar os dados em arquivos XML, fora isso foi amplamente usado *LINQ* no projeto.
 
 ---
 
@@ -10,7 +10,7 @@ Este projeto foi desenvolvido como **trabalho final da disciplina de Algoritmos 
 
 O objetivo principal é aplicar os conhecimentos de estruturação de dados, organização de arquivos, modularização e persistência, oferecendo uma solução simples e funcional para gerenciamento de clubes de futebol em ambiente console.
 
-```bash
+```txt
 ⚠️ Observação:
 
 O projeto foi mais ambicioso do que o pedido pelo professor!
