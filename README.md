@@ -6,7 +6,9 @@ Programa **console** em **C# (.NET 8)** para gerenciar clubes de futebol, permit
 
 ## 💡 Objetivo
 
-Oferecer uma solução simples para gerenciamento de dados relacionados a clubes de futebol, utilizando uma estrutura de código modular, persistência em XML e navegação por menus no console.
+Este projeto foi desenvolvido como **trabalho final da disciplina de Algoritmos e Estruturas de Dados (AED)** do curso de Sistemas de Informação na **PUC Minas Betim**.  
+
+O objetivo principal é aplicar os conhecimentos de estruturação de dados, organização de arquivos, modularização e persistência, oferecendo uma solução simples e funcional para gerenciamento de clubes de futebol em ambiente console.
 
 ---
 
