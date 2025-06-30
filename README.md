@@ -11,20 +11,16 @@ Oferecer uma solução simples para gerenciamento de dados relacionados a clubes
 ---
 
 ## 🏗️ Estrutura do projeto
-
-.
-├── DadosXml/ # Armazenamento de dados em XML (Clubes, Jogadores, Técnicos, Partidas)
-├── Data/ # Gerencia leitura e escrita dos dados
-├── Menus/ # Controle e navegação dos menus no console
-├── Models/ # Modelos das entidades (Clube, Jogador, Tecnico, Partida)
-├── src/ # Código principal com funções organizadas
-├── Program.cs # Ponto de entrada principal do programa
-└── README.md # Documentação
-
-yaml
-Copiar
-Editar
-
+```plaintext
+Clubes-de-Futebol
+├── DadosXml/     → Armazenamento de dados em XML (Clubes, Jogadores, Técnicos, Partidas)
+├── Data/         → Gerencia leitura e escrita dos dados
+├── Menus/        → Controle e navegação dos menus no console
+├── Models/       → Modelos das entidades (Clube, Jogador, Tecnico, Partida)
+├── src/          → Código principal com funções organizadas
+├── Program.cs    → Ponto de entrada principal do programa
+└── README.md     → Documentação do projeto
+```
 ---
 
 ## ⚙️ Funcionalidades principais
@@ -73,13 +69,8 @@ Faça commit das alterações.
 
 Abra um Pull Request.
 
-📝 Licença
-Este projeto ainda não possui uma licença definida. Caso deseje, adicione uma licença de sua preferência.
-
-👤 Autor
-Arthur Henry (GitHub)
 
 💬 Contato
 Caso tenha dúvidas ou sugestões, abra uma Issue no repositório ou entre em contato diretamente pelo GitHub.
 
-⭐ Se este projeto foi útil, deixe uma estrela!
+⭐ Se gostou do projeto, deixe uma estrela!
