@@ -11,9 +11,10 @@ Este projeto foi desenvolvido como **trabalho final da disciplina de Algoritmos 
 O objetivo principal é aplicar os conhecimentos de estruturação de dados, organização de arquivos, modularização e persistência, oferecendo uma solução simples e funcional para gerenciamento de clubes de futebol em ambiente console.
 
 ```markdown
-**⚠️ Observação:**
+⚠️ Observação:
 
-O projeto foi mais ambicioso do que o pedido pelo professor, visto como um desafio pessoal para aprofundar o aprendizado e testar habilidades além do requisito mínimo.
+O projeto foi mais ambicioso do que o pedido pelo professor!
+Visto como um desafio pessoal para aprofundar o aprendizado e testar habilidades além do requisito mínimo.
 ```
 
 ---
