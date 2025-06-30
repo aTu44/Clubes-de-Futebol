@@ -67,19 +67,5 @@ dotnet run
 ```
 Em seguida, utilize o menu no console para gerenciar clubes, jogadores, técnicos e simular partidas.
 
-🤝 Contribuição
-Contribuições são bem-vindas! Para colaborar:
-
-Faça um fork do projeto.
-
-Crie uma branch: feature/sua-funcionalidade.
-
-Faça commit das alterações.
-
-Abra um Pull Request.
-
-
-💬 Contato
-Caso tenha dúvidas ou sugestões, abra uma Issue no repositório ou entre em contato diretamente pelo GitHub.
 
 ⭐ Se gostou do projeto, deixe uma estrela!
