@@ -37,7 +37,7 @@ Clubes-de-Futebol
 - 📄 **Cadastro** de clubes, jogadores e técnicos
 - 🤝 **Associação** de jogadores e técnicos aos clubes
 - 🏟️ **Simulação de partidas** entre clubes
-- 🗂️ **Listagem e exclusão** de clubes, jogadores e técnicos
+- 🗂️ **Listagem e exclusão** de clubes, jogadores e técnicos e partidas
 - 💾 **Persistência de dados em XML**, garantindo registros salvos entre execuções
 
 ---
