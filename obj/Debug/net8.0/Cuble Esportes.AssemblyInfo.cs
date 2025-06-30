@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Cuble Esportes")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+79a96a0ed3acf41199d4063395bf8bb756589b41")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7dbd1fbe2dec5dbda0c42848538b3bc87697c363")]
 [assembly: System.Reflection.AssemblyProductAttribute("Cuble Esportes")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Cuble Esportes")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

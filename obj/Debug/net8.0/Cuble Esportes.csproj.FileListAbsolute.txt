@@ -26,7 +26,6 @@ C:\Users\arthu\OneDrive\Documentos\Progamas\Vs.code\Trabalho AED\Cuble Esportes\
 C:\Users\arthu\OneDrive\Documentos\Progamas\Vs.code\Trabalho AED\Cuble Esportes\obj\Debug\net8.0\Cuble Esportes.pdb
 C:\Users\arthu\OneDrive\Documentos\Progamas\Vs.code\Trabalho AED\Cuble Esportes\obj\Debug\net8.0\Cuble Esportes.genruntimeconfig.cache
 C:\Users\arthu\OneDrive\Documentos\Progamas\Vs.code\Trabalho AED\Cuble Esportes\obj\Debug\net8.0\ref\Cuble Esportes.dll
-c:\Users\Arthur\OneDrive\Documentos\Progamas\Vs.code\TrabalhoAED\CubleEsportes\bin\Debug\net8.0\appsettings.json
 c:\Users\Arthur\OneDrive\Documentos\Progamas\Vs.code\TrabalhoAED\CubleEsportes\bin\Debug\net8.0\Cuble Esportes.exe
 C:\Users\Arthur\OneDrive\Documentos\Progamas\Vs.code\TrabalhoAED\CubleEsportes\bin\Debug\net8.0\Cuble Esportes.deps.json
 C:\Users\Arthur\OneDrive\Documentos\Progamas\Vs.code\TrabalhoAED\CubleEsportes\bin\Debug\net8.0\Cuble Esportes.runtimeconfig.json
@@ -58,3 +57,4 @@ C:\Users\arthu\OneDrive\Documentos\Progamas\Vs.code\TrabalhoAED\CubleEsportes\ob
 C:\Users\arthu\OneDrive\Documentos\Progamas\Vs.code\TrabalhoAED\CubleEsportes\obj\Debug\net8.0\ref\Cuble Esportes.dll
 C:\Users\arthu\OneDrive\Documentos\Progamas\Vs.code\TrabalhoAED\CubleEsportes\bin\Debug\net8.0\Dados\clubes.xml
 C:\Users\arthu\OneDrive\Documentos\Progamas\Vs.code\TrabalhoAED\CubleEsportes\bin\Debug\net8.0\Dados\partidas.xml
+c:\Users\Arthur\OneDrive\Documentos\Progamas\Vs.code\TrabalhoAED\CubleEsportes\obj\Debug\net8.0\Cuble Esportes.sourcelink.json
