@@ -1,0 +1,60 @@
+C:\Users\Arthur\OneDrive\Documentos\Progamas\Vs.code\Trabalho AED\Cuble Esportes\bin\Debug\net8.0\Cuble Esportes.exe
+C:\Users\Arthur\OneDrive\Documentos\Progamas\Vs.code\Trabalho AED\Cuble Esportes\bin\Debug\net8.0\Cuble Esportes.deps.json
+C:\Users\Arthur\OneDrive\Documentos\Progamas\Vs.code\Trabalho AED\Cuble Esportes\bin\Debug\net8.0\Cuble Esportes.runtimeconfig.json
+C:\Users\Arthur\OneDrive\Documentos\Progamas\Vs.code\Trabalho AED\Cuble Esportes\bin\Debug\net8.0\Cuble Esportes.dll
+C:\Users\Arthur\OneDrive\Documentos\Progamas\Vs.code\Trabalho AED\Cuble Esportes\bin\Debug\net8.0\Cuble Esportes.pdb
+C:\Users\Arthur\OneDrive\Documentos\Progamas\Vs.code\Trabalho AED\Cuble Esportes\obj\Debug\net8.0\Cuble Esportes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arthur\OneDrive\Documentos\Progamas\Vs.code\Trabalho AED\Cuble Esportes\obj\Debug\net8.0\Cuble Esportes.AssemblyInfoInputs.cache
+C:\Users\Arthur\OneDrive\Documentos\Progamas\Vs.code\Trabalho AED\Cuble Esportes\obj\Debug\net8.0\Cuble Esportes.AssemblyInfo.cs
+C:\Users\Arthur\OneDrive\Documentos\Progamas\Vs.code\Trabalho AED\Cuble Esportes\obj\Debug\net8.0\Cuble Esportes.csproj.CoreCompileInputs.cache
+C:\Users\Arthur\OneDrive\Documentos\Progamas\Vs.code\Trabalho AED\Cuble Esportes\obj\Debug\net8.0\Cuble Esportes.dll
+C:\Users\Arthur\OneDrive\Documentos\Progamas\Vs.code\Trabalho AED\Cuble Esportes\obj\Debug\net8.0\refint\Cuble Esportes.dll
+C:\Users\Arthur\OneDrive\Documentos\Progamas\Vs.code\Trabalho AED\Cuble Esportes\obj\Debug\net8.0\Cuble Esportes.pdb
+C:\Users\Arthur\OneDrive\Documentos\Progamas\Vs.code\Trabalho AED\Cuble Esportes\obj\Debug\net8.0\Cuble Esportes.genruntimeconfig.cache
+C:\Users\Arthur\OneDrive\Documentos\Progamas\Vs.code\Trabalho AED\Cuble Esportes\obj\Debug\net8.0\ref\Cuble Esportes.dll
+C:\Users\arthu\OneDrive\Documentos\Progamas\Vs.code\Trabalho AED\Cuble Esportes\bin\Debug\net8.0\Cuble Esportes.exe
+C:\Users\arthu\OneDrive\Documentos\Progamas\Vs.code\Trabalho AED\Cuble Esportes\bin\Debug\net8.0\Cuble Esportes.deps.json
+C:\Users\arthu\OneDrive\Documentos\Progamas\Vs.code\Trabalho AED\Cuble Esportes\bin\Debug\net8.0\Cuble Esportes.runtimeconfig.json
+C:\Users\arthu\OneDrive\Documentos\Progamas\Vs.code\Trabalho AED\Cuble Esportes\bin\Debug\net8.0\Cuble Esportes.dll
+C:\Users\arthu\OneDrive\Documentos\Progamas\Vs.code\Trabalho AED\Cuble Esportes\bin\Debug\net8.0\Cuble Esportes.pdb
+C:\Users\arthu\OneDrive\Documentos\Progamas\Vs.code\Trabalho AED\Cuble Esportes\obj\Debug\net8.0\Cuble Esportes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arthu\OneDrive\Documentos\Progamas\Vs.code\Trabalho AED\Cuble Esportes\obj\Debug\net8.0\Cuble Esportes.AssemblyInfoInputs.cache
+C:\Users\arthu\OneDrive\Documentos\Progamas\Vs.code\Trabalho AED\Cuble Esportes\obj\Debug\net8.0\Cuble Esportes.AssemblyInfo.cs
+C:\Users\arthu\OneDrive\Documentos\Progamas\Vs.code\Trabalho AED\Cuble Esportes\obj\Debug\net8.0\Cuble Esportes.csproj.CoreCompileInputs.cache
+C:\Users\arthu\OneDrive\Documentos\Progamas\Vs.code\Trabalho AED\Cuble Esportes\obj\Debug\net8.0\Cuble Esportes.dll
+C:\Users\arthu\OneDrive\Documentos\Progamas\Vs.code\Trabalho AED\Cuble Esportes\obj\Debug\net8.0\refint\Cuble Esportes.dll
+C:\Users\arthu\OneDrive\Documentos\Progamas\Vs.code\Trabalho AED\Cuble Esportes\obj\Debug\net8.0\Cuble Esportes.pdb
+C:\Users\arthu\OneDrive\Documentos\Progamas\Vs.code\Trabalho AED\Cuble Esportes\obj\Debug\net8.0\Cuble Esportes.genruntimeconfig.cache
+C:\Users\arthu\OneDrive\Documentos\Progamas\Vs.code\Trabalho AED\Cuble Esportes\obj\Debug\net8.0\ref\Cuble Esportes.dll
+c:\Users\Arthur\OneDrive\Documentos\Progamas\Vs.code\TrabalhoAED\CubleEsportes\bin\Debug\net8.0\appsettings.json
+c:\Users\Arthur\OneDrive\Documentos\Progamas\Vs.code\TrabalhoAED\CubleEsportes\bin\Debug\net8.0\Cuble Esportes.exe
+C:\Users\Arthur\OneDrive\Documentos\Progamas\Vs.code\TrabalhoAED\CubleEsportes\bin\Debug\net8.0\Cuble Esportes.deps.json
+C:\Users\Arthur\OneDrive\Documentos\Progamas\Vs.code\TrabalhoAED\CubleEsportes\bin\Debug\net8.0\Cuble Esportes.runtimeconfig.json
+c:\Users\Arthur\OneDrive\Documentos\Progamas\Vs.code\TrabalhoAED\CubleEsportes\bin\Debug\net8.0\Cuble Esportes.dll
+c:\Users\Arthur\OneDrive\Documentos\Progamas\Vs.code\TrabalhoAED\CubleEsportes\bin\Debug\net8.0\Cuble Esportes.pdb
+c:\Users\Arthur\OneDrive\Documentos\Progamas\Vs.code\TrabalhoAED\CubleEsportes\obj\Debug\net8.0\Cuble Esportes.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Arthur\OneDrive\Documentos\Progamas\Vs.code\TrabalhoAED\CubleEsportes\obj\Debug\net8.0\Cuble Esportes.AssemblyInfoInputs.cache
+c:\Users\Arthur\OneDrive\Documentos\Progamas\Vs.code\TrabalhoAED\CubleEsportes\obj\Debug\net8.0\Cuble Esportes.AssemblyInfo.cs
+c:\Users\Arthur\OneDrive\Documentos\Progamas\Vs.code\TrabalhoAED\CubleEsportes\obj\Debug\net8.0\Cuble Esportes.csproj.CoreCompileInputs.cache
+c:\Users\Arthur\OneDrive\Documentos\Progamas\Vs.code\TrabalhoAED\CubleEsportes\obj\Debug\net8.0\Cuble Esportes.dll
+c:\Users\Arthur\OneDrive\Documentos\Progamas\Vs.code\TrabalhoAED\CubleEsportes\obj\Debug\net8.0\refint\Cuble Esportes.dll
+c:\Users\Arthur\OneDrive\Documentos\Progamas\Vs.code\TrabalhoAED\CubleEsportes\obj\Debug\net8.0\Cuble Esportes.pdb
+C:\Users\Arthur\OneDrive\Documentos\Progamas\Vs.code\TrabalhoAED\CubleEsportes\obj\Debug\net8.0\Cuble Esportes.genruntimeconfig.cache
+C:\Users\Arthur\OneDrive\Documentos\Progamas\Vs.code\TrabalhoAED\CubleEsportes\obj\Debug\net8.0\ref\Cuble Esportes.dll
+C:\Users\arthu\OneDrive\Documentos\Progamas\Vs.code\TrabalhoAED\CubleEsportes\bin\Debug\net8.0\appsettings.json
+C:\Users\arthu\OneDrive\Documentos\Progamas\Vs.code\TrabalhoAED\CubleEsportes\bin\Debug\net8.0\Cuble Esportes.exe
+C:\Users\arthu\OneDrive\Documentos\Progamas\Vs.code\TrabalhoAED\CubleEsportes\bin\Debug\net8.0\Cuble Esportes.deps.json
+C:\Users\arthu\OneDrive\Documentos\Progamas\Vs.code\TrabalhoAED\CubleEsportes\bin\Debug\net8.0\Cuble Esportes.runtimeconfig.json
+C:\Users\arthu\OneDrive\Documentos\Progamas\Vs.code\TrabalhoAED\CubleEsportes\bin\Debug\net8.0\Cuble Esportes.dll
+C:\Users\arthu\OneDrive\Documentos\Progamas\Vs.code\TrabalhoAED\CubleEsportes\bin\Debug\net8.0\Cuble Esportes.pdb
+C:\Users\arthu\OneDrive\Documentos\Progamas\Vs.code\TrabalhoAED\CubleEsportes\obj\Debug\net8.0\Cuble Esportes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arthu\OneDrive\Documentos\Progamas\Vs.code\TrabalhoAED\CubleEsportes\obj\Debug\net8.0\Cuble Esportes.AssemblyInfoInputs.cache
+C:\Users\arthu\OneDrive\Documentos\Progamas\Vs.code\TrabalhoAED\CubleEsportes\obj\Debug\net8.0\Cuble Esportes.AssemblyInfo.cs
+C:\Users\arthu\OneDrive\Documentos\Progamas\Vs.code\TrabalhoAED\CubleEsportes\obj\Debug\net8.0\Cuble Esportes.csproj.CoreCompileInputs.cache
+C:\Users\arthu\OneDrive\Documentos\Progamas\Vs.code\TrabalhoAED\CubleEsportes\obj\Debug\net8.0\Cuble Esportes.dll
+C:\Users\arthu\OneDrive\Documentos\Progamas\Vs.code\TrabalhoAED\CubleEsportes\obj\Debug\net8.0\refint\Cuble Esportes.dll
+C:\Users\arthu\OneDrive\Documentos\Progamas\Vs.code\TrabalhoAED\CubleEsportes\obj\Debug\net8.0\Cuble Esportes.pdb
+C:\Users\arthu\OneDrive\Documentos\Progamas\Vs.code\TrabalhoAED\CubleEsportes\obj\Debug\net8.0\Cuble Esportes.genruntimeconfig.cache
+C:\Users\arthu\OneDrive\Documentos\Progamas\Vs.code\TrabalhoAED\CubleEsportes\obj\Debug\net8.0\ref\Cuble Esportes.dll
+C:\Users\arthu\OneDrive\Documentos\Progamas\Vs.code\TrabalhoAED\CubleEsportes\bin\Debug\net8.0\Dados\clubes.xml
+C:\Users\arthu\OneDrive\Documentos\Progamas\Vs.code\TrabalhoAED\CubleEsportes\bin\Debug\net8.0\Dados\partidas.xml
