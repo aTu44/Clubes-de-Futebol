@@ -13,7 +13,7 @@ O objetivo principal é aplicar os conhecimentos de estruturação de dados, org
 ```markdown
 **⚠️ Observação:**
 
-O projeto foi elaborado com um escopo mais ambicioso do que o inicialmente pedido pelo professor, visto como um desafio pessoal para aprofundar o aprendizado e testar habilidades além do requisito mínimo.
+O projeto foi mais ambicioso do que o pedido pelo professor, visto como um desafio pessoal para aprofundar o aprendizado e testar habilidades além do requisito mínimo.
 ```
 
 ---
